@@ -1,6 +1,6 @@
 # Interpolação Polinomial pelo Método de Newton
 
-Interpolar uma função f(x) consiste em aproximar essa função por uma outra função g(x), escolhida entre uma classe de funções definida a priori e que satisfaça algumas
+Interpolar uma função f(x) consiste em aproximar essa função por uma outra função g(x), escolhida entre uma classe de funções definidas a priori e que satisfaça algumas
 propriedades. A função g(x) é então usada em substituição à função f(x). A necessidade de se efetuar esta substituição surge em várias situações, como por exemplo:
 
 a) quando são conhecidos somente os valores numéricos da função para um conjunto de pontos e é necessário calcular o valor da função em um ponto não tabelado;
